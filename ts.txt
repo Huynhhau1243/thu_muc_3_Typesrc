@@ -1,0 +1,16 @@
+Typescript là gì?  => là một ngôn ngữ lập trình 
++ Nhược điểm là Browser chỉ có thể hiểu HTML/CSS và Js thuần nó không hiểu Typescript
++ Muốn hiểu được ta phải có 1 typecript compiler ở giữa làm trung 
++ => dùng Babel 
++ Typescript sử dụng cú pháp của JS 
+
++ Tại sao dùng TS 
+- Eps kiểu dữ liệu chạt chẽ (giảm sự tự do với Js)
+
++ cách cài đặt thư viện Typescript
+Cách dễ nhât để thiết lập TypeScript là thông qua npm. Sử dụng lệnh dưới đây có thể cài đặt TypeScript package toàn cục, giúp cho trình biên dịch TypeScript có thể sử dụng trong mọi dự án của chúng ta:
+=> npm install -g typescript
++ Sau đó kiểm tra version: 
+=> tsc --v
+
+Type inference là tự động gắn type 
